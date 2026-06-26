@@ -1,0 +1,15 @@
+feature,corr_with_answer,corr_with_accepted
+has_code,0.1182,0.1329
+score,0.0521,0.0982
+view_count,0.0751,0.0444
+owner_age_days,0.0105,0.0437
+owner_reputation,0.0222,0.0316
+favorite_count,0.0278,0.0297
+title_len,-0.0329,-0.0264
+has_registered_owner,-0.0255,-0.0259
+title_has_qmark,0.03,0.0241
+num_tags,-0.0204,-0.0137
+body_len,-0.016,0.0091
+comment_count,-0.0104,-0.0027
+has_img_or_link,-0.0244,0.0015
+title_words,0.0066,-0.0013
